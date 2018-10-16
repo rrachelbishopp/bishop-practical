@@ -1,0 +1,14 @@
+* {
+/* styles in here affect everything!!!! */
+font-family: 'Amiri', serif;
+box-sizing:border-box;
+}
+
+.img {
+  width: 50%
+  height: auto;
+}
+@media screen and (max-width: 799px) {
+  .advert-img {
+    width: 100%;
+  }
